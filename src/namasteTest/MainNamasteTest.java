@@ -6,9 +6,7 @@ public class MainNamasteTest {
 		
 		System.out.println("Namaste! Hello world!");
 		System.out.println("Let's do this!");
-		System.out.println("Let's do this!");
-		
-		
+			
 	}
 
 }
